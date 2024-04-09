@@ -432,6 +432,7 @@ def main():
 
     if st.button("Generate Meals"):
         suggested_meals = generate_meals(df, min_calories, max_calories, min_fat, max_fat, num_breakfast, num_lunch, num_dinner, num_snacks, dietary_restrictions, excluded_ingredients)
+        # Display generated meals...
         total_calories = sum(meal['Calories'].sum() for meal in suggested_meals.values())
         if total_calories > max_calories:
             st.warning("Total calories of selected meals exceed the maximum calories. Please adjust the meal quantities.")
@@ -450,12 +451,8 @@ def main():
         labels = list(meal_counts.keys())
         values = list(meal_counts.values())
 
-        fig, ax = plt.subplots()
-        ax.pie(values, labels=labels, autopct='%1.1f%%', startangle=90)
-        ax.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-
         st.write("Meal Type Distribution:")
-        st.pyplot(fig)
+        st.pyplot(values, labels=labels, autopct='%1.1f%%', startangle=90)
 
         st.subheader("Generated Meals")
         for meal_type, meal_data in suggested_meals.items():
