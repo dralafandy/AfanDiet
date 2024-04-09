@@ -1,0 +1,35 @@
+Meal,Ingredients,Ingredients Weight (grams),Meal Type,Calories,Fat (grams),Carbohydrates (grams),Protein (grams),Calcium (mg),Vitamin C (mg),Type
+Oatmeal,"Oats, Water, Milk, Honey, Cinnamon","100, 200, 150, 50, 10",Breakfast,150,5,25,5,50,2,Gain weight
+Grilled Chicken Breast,"Chicken Breast, Olive Oil, Salt, Pepper","150, 15, 30, 5",Lunch,250,8,2,30,20,5,Loss weight
+Molokhia,"Molokhia Leaves, Garlic, Coriander, Chicken, Olive Oil, Lemon Juice","200, 20, 10, 150, 20, 10",Dinner,350,12,35,25,45,4,Maintain weight
+Mahshi,"Zucchini, Eggplant, Bell Pepper, Tomato, Rice, Onion, Garlic","150, 100, 50, 50, 100, 50, 10",Dinner,320,10,40,15,30,3,Loss weight
+Fattah,"Rice, Bread, Garlic, Vinegar, Tomato Sauce, Meat (Beef or Lamb)","150, 50, 10, 10, 100, 150",Lunch,380,14,45,22,40,3,Gain weight
+Shawarma,"Marinated Chicken or Beef, Pita Bread, Garlic Sauce, Pickles, Tomato, Onion","150, 50, 20, 20, 30, 20",Dinner,400,16,35,28,35,3,Gain weight
+Kofta,"Ground Beef or Lamb, Onion, Parsley, Spices (e.g., Cumin, Paprika), Olive Oil","200, 50, 20, 5, 10",Dinner,300,12,25,20,30,2,Maintain weight
+Koshari,"Lentils, Rice, Pasta, Tomato Sauce, Fried Onions","150, 150, 100, 80, 20",Lunch,400,15,60,10,30,5,Maintain weight
+Ful Medames,"Fava Beans, Olive Oil, Garlic, Lemon Juice, Cumin, Salt","200, 30, 10, 10, 5, 2",Breakfast,300,10,40,20,40,3,Loss weight
+Roz Bel Laban,"Rice, Milk, Sugar, Rose Water, Cinnamon","150, 200, 50, 5, 2",Dessert,250,5,50,5,35,1,Gain weight
+Feseekh,Fermented Salted Fish,100,Breakfast,150,8,3,10,20,2,Loss weight
+Roz Meammar,"Rice, Vermicelli, Butter, Chicken Broth","150, 50, 20, 100",Dinner,320,10,45,15,30,3,Loss weight
+Ta'ameya,"Fava Beans, Chickpeas, Coriander, Garlic, Onions, Cumin","150, 100, 30, 10, 20, 5",Lunch,280,7,35,18,25,3,Maintain weight
+Basbousa,"Semolina, Coconut, Sugar, Yogurt, Baking Powder, Butter","100, 50, 100, 50, 5, 20",Dessert,280,8,40,10,30,3,Gain weight
+Hawawshi,"Ground Beef, Bread, Onion, Parsley, Garlic, Tomato, Bell Pepper, Spices","150, 50, 20, 10, 10, 30, 20, 5",Dinner,300,12,25,20,30,2,Maintain weight
+Hamam Mahshi,"Pigeon, Rice, Butter, Onion, Garlic, Spices","200, 150, 20, 20, 10, 5",Dinner,350,14,40,22,35,2,Gain weight
+Kahk,"Flour, Butter, Sugar, Yeast, Sesame Seeds","100, 50, 50, 5, 10",Snack,200,6,30,5,25,1,Maintain weight
+Kebda Iskandarani,"Liver, Garlic, Lemon Juice, Olive Oil, Cumin, Salt","150, 20, 10, 20, 5, 2",Lunch,300,12,25,20,30,2,Gain weight
+Moussaka,"Eggplant, Ground Beef, Tomato, Onion, Garlic, Olive Oil, Bechamel Sauce","150, 200, 50, 20, 10, 20, 100",Dinner,320,10,45,15,30,3,Loss weight
+Shakshuka,"Tomato, Bell Pepper, Onion, Garlic, Eggs, Olive Oil, Cumin, Paprika","200, 100, 50, 20, 4, 20, 5, 5",Breakfast,300,10,35,20,30,3,Maintain weight
+Halawa,"Tahini, Sugar, Lemon Juice","100, 50, 10",Snack,200,6,30,5,25,1,Gain weight
+Kofta Bel Seneya,"Ground Beef or Lamb, Onion, Parsley, Tomato Sauce, Spices (e.g., Cumin, Paprika), Olive Oil","200, 50, 20, 100, 5, 10",Dinner,300,12,25,20,30,2,Maintain weight
+Grilled Fish with Steamed Vegetables,"Fish Fillet, Broccoli, Carrots, Zucchini, Lemon, Olive Oil, Salt, Pepper","150, 50, 50, 50, 20, 10, 5, 5",Dinner,280,8,15,30,25,10,Maintain weight
+Quinoa Salad with Grilled Chicken,"Quinoa, Grilled Chicken Breast, Bell Pepper, Cucumber, Cherry Tomatoes, Olive Oil, Lemon Juice, Salt, Pepper","100, 100, 50, 50, 30, 10, 10, 5, 5",Lunch,300,10,25,25,20,15,Loss weight
+Stir-Fried Tofu with Vegetables,"Tofu, Broccoli, Bell Pepper, Carrots, Snap Peas, Garlic, Ginger, Soy Sauce, Sesame Oil","150, 50, 50, 50, 30, 10, 5, 10, 5",Dinner,250,7,20,20,15,8,Maintain weight
+Mixed Green Salad with Grilled Shrimp,"Mixed Greens, Grilled Shrimp, Cherry Tomatoes, Cucumber, Red Onion, Olive Oil, Balsamic Vinegar, Salt, Pepper","100, 100, 30, 30, 20, 10, 10, 5, 5",Lunch,220,7,15,25,15,10,Loss weight
+Vegetable Soup with Lentils,"Vegetable Broth, Lentils, Carrots, Celery, Onion, Garlic, Bay Leaves, Salt, Pepper","200, 50, 50, 50, 20, 10, 2, 5, 5",Dinner,200,5,25,10,10,6,Maintain weight
+Greek Yogurt Parfait with Berries,"Greek Yogurt, Mixed Berries (e.g., Strawberries, Blueberries, Raspberries), Honey, Granola","150, 50, 30, 20",Breakfast,180,3,20,15,20,8,Loss weight
+Vegetable Stir-Fry with Tofu,"Tofu, Broccoli, Bell Pepper, Carrots, Snap Peas, Mushrooms, Garlic, Ginger, Soy Sauce","100, 50, 50, 50, 30, 20, 5, 5, 10",Dinner,230,6,20,15,10,8,Loss weight
+Spinach Salad with Grilled Chicken,"Baby Spinach, Grilled Chicken Breast, Cherry Tomatoes, Cucumber, Red Onion, Olive Oil, Balsamic Vinegar, Salt, Pepper","100, 100, 30, 30, 20, 10, 10, 5, 5",Lunch,210,7,10,25,15,10,Loss weight
+Egg White Omelette with Spinach and Mushrooms,"Egg Whites, Baby Spinach, Mushrooms, Onion, Olive Oil, Salt, Pepper","150, 50, 30, 20, 5, 5, 5",Breakfast,180,5,5,20,10,4,Loss weight
+Quinoa Salad with Chickpeas and Veggies,"Quinoa, Chickpeas, Cherry Tomatoes, Cucumber, Bell Pepper, Red Onion, Lemon Juice, Olive Oil, Salt, Pepper","50, 50, 30, 30, 20, 20, 10, 10, 5, 5",Lunch,200,6,30,8,15,10,Loss weight
+Grilled Vegetable Wrap,"Whole Wheat Wrap, Grilled Zucchini, Grilled Eggplant, Grilled Bell Peppers, Hummus, Baby Spinach, Balsamic Glaze","50, 30, 30, 20, 20, 10, 5",Lunch,180,4,25,5,10,8,Loss weight
+Greek Yogurt with Berries and Almonds,"Greek Yogurt, Mixed Berries (Strawberries, Blueberries, Raspberries), Almonds","150, 50, 30, 10",Snack,150,5,15,10,20,6,Loss weight
